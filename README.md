@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Adit Garg</h1>
-<h5 align="center">description</h5>
+<h5 align="center"></h5>
 <p align="center"><br>
          <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=adit-garg&theme=radical">
          <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=adit-garg&count_private=true&theme=radical&show_icons=true"/></p>
